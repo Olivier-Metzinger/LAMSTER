@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="263" height="51.5" viewBox="0 0 263 51.5">
+  <g id="Groupe_6" data-name="Groupe 6" transform="translate(-1380 -278)">
+    <text id="Brand" transform="translate(1380 317)" fill="#fff" font-size="42" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Brand</tspan></text>
+    <text id="name" transform="translate(1524 317)" fill="#fff" font-size="42" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">name</tspan></text>
+    <g id="Groupe_4" data-name="Groupe 4" transform="translate(1.5 16.5)">
+      <line id="Ligne_1" data-name="Ligne 1" x1="28" transform="translate(1508.5 262.5)" fill="none" stroke="#149895" stroke-width="2"/>
+      <line id="Ligne_2" data-name="Ligne 2" y1="27" transform="translate(1509.5 261.5)" fill="none" stroke="#149895" stroke-width="2"/>
+    </g>
+    <g id="Groupe_5" data-name="Groupe 5" transform="translate(3151.5 591) rotate(180)">
+      <line id="Ligne_1-2" data-name="Ligne 1" x1="28" transform="translate(1508.5 262.5)" fill="none" stroke="#149895" stroke-width="2"/>
+      <line id="Ligne_2-2" data-name="Ligne 2" y1="27" transform="translate(1509.5 261.5)" fill="none" stroke="#149895" stroke-width="2"/>
+    </g>
+  </g>
+</svg>
